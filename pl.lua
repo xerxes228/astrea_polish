@@ -14,7 +14,7 @@ AstreaToolbox.Translations["pl"] = {}
 -------------------------------------------------
  
  
----- [English] -----------------------------------------
+---- [Polish] -----------------------------------------
  
  
 -- Main Stuff
@@ -152,4 +152,4 @@ AstreaToolbox.Translations["pl"] = {}
         AstreaToolbox.Translations["pl"]["button_click_me"] = "Kliknij mnie"
         
         
----- [/English] ---------------------------------------
+---- [/Polish] ---------------------------------------
